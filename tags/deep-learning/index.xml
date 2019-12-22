@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Amao&#39;s Personal Page</title>
+    <title>Deep Learning | A. O Amao</title>
     <link>https://hammao.github.io/tags/deep-learning/</link>
       <atom:link href="https://hammao.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© A. O Amao, 2019</copyright><lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hammao.github.io/img/icon-192.png</url>
       <title>Deep Learning</title>
