@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mine | Amao&#39;s Personal Page</title>
-    <link>/tags/mine/</link>
-      <atom:link href="/tags/mine/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hammao.github.io/tags/mine/</link>
+      <atom:link href="https://hammao.github.io/tags/mine/index.xml" rel="self" type="application/rss+xml" />
     <description>mine</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://hammao.github.io/img/icon-192.png</url>
       <title>mine</title>
-      <link>/tags/mine/</link>
+      <link>https://hammao.github.io/tags/mine/</link>
     </image>
     
     <item>
       <title>new post</title>
-      <link>/post/new-post/</link>
+      <link>https://hammao.github.io/post/new-post/</link>
       <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/new-post/</guid>
+      <guid>https://hammao.github.io/post/new-post/</guid>
       <description>
 
 
@@ -25,7 +25,7 @@
 &lt;p&gt;After you have found a satisfactory theme, you need to figure out its GitHub username and repository name,18 then either install the theme via blogdown::install_theme(), or just create a new site under another new directory and pass the GitHub repository name to the theme argument of new_site(). We recommend that you use the second approach, because Hugo themes could be very complicated and the usage of each theme can be very different and highly dependent on config.toml. If you install a theme using install_theme() instead of new_site() you’ll need to manually create the config.toml file in the root directory of your website to match the newly installed theme.19&lt;/p&gt;
 &lt;p&gt;Now use the Serve Site addin and check if you like your images. You might want to change the height/widths or alternate text. You could also wrap the HTML/Markdown code around it for linking to a website.&lt;/p&gt;
 &lt;p&gt;You can also delete your original images, if for example, they are cluttering your&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2019-12-22-new-post_files/index.jpeg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hammao.github.io/post/2019-12-22-new-post_files/index.jpeg&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
